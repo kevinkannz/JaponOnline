@@ -1,0 +1,107 @@
+.navbar {
+    margin: 1em;
+    box-shadow: 1px 2px 20px rgb(160, 160, 160);
+    border-radius: 30px;
+}
+
+#navCategorias {
+    margin: 4em;
+    height: 50px;
+}
+
+.nav-link {
+    margin: 25px;
+}
+
+.centered {
+    color: white;
+    font-size: 200px;
+    font-style: italic;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#titulo {
+    margin: 5em;
+}
+
+#tituloCategoria {
+    align-items: center;
+}
+
+#historia {
+    border-radius: 30px;
+}
+
+#centro2 {
+    margin-top: -30px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#centro3 {
+    margin-top: 460px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+footer {
+    font-weight: bolder;
+}
+
+#centro {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#turismo {
+    margin-bottom: 18px;
+    margin-left: 18px;
+}
+
+h2 {
+    margin-right: 28em;
+}
+
+#carrusel {
+    margin-bottom: 70px;
+}
+
+#carouselExampleInterval {
+    width: 700px;
+    box-shadow: 1px 1px 40px rgb(129, 129, 129);
+    margin-left: 50em;
+    margin-top: -560px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    visibility: hidden;
+}
+
+#botonD {
+    margin-top: 18px;
+    position: relative;
+    margin-left: 100px;
+    height: 45px;
+    width: 250px;
+    background-color: #BC002D;
+    color: white;
+    border-radius: 25px;
+    box-shadow: 1px 5px 5px rgb(160, 160, 160);
+}
+
+#mensajeB {
+    margin-right: 50px;
+    font-weight: 600;
+}
+
+#cards {
+    width: 700px;
+    margin: 50px;
+}
