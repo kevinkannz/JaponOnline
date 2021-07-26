@@ -9,6 +9,10 @@
     height: 50px;
 }
 
+#logo {
+    margin-right: 25px;
+}
+
 .nav-link {
     margin: 25px;
 }
@@ -33,6 +37,7 @@
 
 #historia {
     border-radius: 30px;
+    box-shadow: 1px 1px 30px rgb(94, 94, 94);
 }
 
 #centro2 {
@@ -51,12 +56,18 @@
 
 footer {
     font-weight: bolder;
+    margin-top: 1050px;
 }
 
 #centro {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.card {
+    width: 20rem;
+    margin-left: -50px;
 }
 
 #turismo {
@@ -84,6 +95,27 @@ h2 {
     visibility: hidden;
 }
 
+#imgCard1 {
+    margin-left: -130px;
+}
+
+#imgCard2 {
+    margin-left: 50px;
+}
+
+#imgCard3 {
+    margin-left: 225px;
+}
+
+#botonH {
+    height: 45px;
+    width: 250px;
+    background-color: #BC002D;
+    color: white;
+    border-radius: 25px;
+    box-shadow: 1px 5px 5px rgb(160, 160, 160);
+}
+
 #botonD {
     margin-top: 18px;
     position: relative;
@@ -97,7 +129,7 @@ h2 {
 }
 
 #mensajeB {
-    margin-right: 50px;
+    margin-left: 20px;
     font-weight: 600;
 }
 
