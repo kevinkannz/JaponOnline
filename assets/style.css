@@ -17,6 +17,10 @@
     margin: 25px;
 }
 
+#centro :hover {
+    color: #BC002D;
+}
+
 .centered {
     color: white;
     font-size: 200px;
